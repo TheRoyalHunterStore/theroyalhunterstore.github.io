@@ -117,11 +117,19 @@ body {
     .exterior{
         visibility: hidden;
         width: 0;
+        padding: 0;
     }
     .intro{
         width: 100%;
+        position: inline;
+        padding: 2%;
+
     }
     .intro img {
         max-width: 90% ;
+    }
+    .logo {
+        width: 90%;
+        background-size: contain;
     }
 }
