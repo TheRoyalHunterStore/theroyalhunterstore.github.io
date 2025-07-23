@@ -121,7 +121,7 @@ body {
     }
     .intro{
         width: 100%;
-        position: inline;
+        position: initial;
         padding: 2%;
 
     }
