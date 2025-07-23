@@ -131,5 +131,10 @@ body {
     .logo {
         width: 90%;
         background-size: contain;
+        margin: 0;
+        padding: 0;
+    }
+    .link {
+        width: 50%;
     }
 }
