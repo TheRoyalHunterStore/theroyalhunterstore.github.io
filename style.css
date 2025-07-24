@@ -115,6 +115,10 @@ body {
         padding: 2%;
 
     }
+    .intro h2{
+        padding-right: 5%;
+        text-align: justify;
+    }
     .intro img {
         max-width: 90% ;
     }
@@ -125,7 +129,8 @@ body {
         padding: 0;
     }
     .link {
-        width: 50%;
+        width: 100%;
+        padding: 20px 0;
     }
     .phone{
         padding-left: 8%;
