@@ -127,4 +127,10 @@ body {
     .link {
         width: 50%;
     }
+    .phone{
+        padding-left: 8%;
+    }
+    .insta{
+        padding-left: 8%;
+    }
 }
