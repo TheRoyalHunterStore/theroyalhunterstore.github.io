@@ -69,6 +69,7 @@ body {
     font-size: 1.5em;
     margin: 10px 0;
     text-decoration: none;
+    border: 1px solid #e1a725;
 }
 .intro a {
     color: #e1a725;
