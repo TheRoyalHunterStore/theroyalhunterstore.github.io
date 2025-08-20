@@ -68,12 +68,15 @@ body {
     font-weight: 400;
     font-size: 1.5em;
     margin: 10px 0;
-    text-decoration: none;
-    border: 1px solid #e1a725;
+
+}
+.intro h4:hover{
+        text-decoration: underline;
 }
 .intro a {
     color: #e1a725;
     font-size: .85em;
+    text-decoration: none;
 }
 .phone{
     padding-left: 5%;
