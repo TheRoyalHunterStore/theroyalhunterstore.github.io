@@ -78,13 +78,17 @@ body {
     font-size: .85em;
     text-decoration: none;
 }
+a.map{
+    font-weight: 500;
+    font-size: 1em;
+}
 .phone{
-    padding-left: 5%;
+    padding-left: 26px;
     background: url("img/phone.png") no-repeat center left;
     background-size: contain;
 }
 .insta{
-    padding-left: 5%;
+    padding-left: 26px;
     background: url("img/insta.png") no-repeat center left;
     background-size: contain;
 }
